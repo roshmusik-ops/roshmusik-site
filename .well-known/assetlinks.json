@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.roshmusik.leads.twa",
+    "sha256_cert_fingerprints": ["37:40:2E:11:B1:B9:92:AC:33:17:1F:D6:76:25:64:E4:F3:C8:06:3F:06:EB:8A:61:23:0A:F5:52:3D:B5:3B:59"]
+  }
+}]
